@@ -1,2 +1,2 @@
-# caeserCipher 
- caeser cipher game 
+# caesarCipher 
+ caesar cipher game 
